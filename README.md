@@ -1,4 +1,4 @@
-# 🚀 Automated Web Server Setup (Week 1 Challenge)
+# 🚀 Automated Web Server Setup 
 
 This repository contains a Bash script to automate the deployment of an Nginx Web Server on Ubuntu. It demonstrates basic DevOps principles including automation, permission management, and system updates.
 
